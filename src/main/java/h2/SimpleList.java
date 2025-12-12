@@ -5,7 +5,6 @@ public class SimpleList {
     public Node head;
 
     public SimpleList() {
-        // Kopfknoten mit Dummy-Wert
         head = new Node(Integer.MIN_VALUE);
     }
 
